@@ -10,10 +10,10 @@ function App() {
         <p>
           Hi. How are you?
         </p>
-        <p>O   O</p>
-        <p> \ /</p>
-        <p>  O</p>
-        <p>/_\\/_</p>
+        <p id="frog">O{'   '}O<br />
+         \{ }/<br />
+        O<br />
+        /_\\/_</p>
         <a
           className="App-link"
           href="https://reactjs.org"
