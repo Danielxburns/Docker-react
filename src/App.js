@@ -6,22 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hi. How are you?
-        </p>
-        <p id="frog">O{'   '}O<br />
-         \{ }/<br />
-        O<br />
-        /_\\/_</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p id="frog">
+          O&nbsp;&nbsp;&nbsp;O<br />
+          \&nbsp;/<br />
+          O<br />
+          /_\\/_</p>
+        <p>Hi. How are you?</p>
       </header>
     </div>
   );
